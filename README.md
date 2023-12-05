@@ -12,7 +12,7 @@ Features
 
 Usage
 
--Clone the repository: git clone https://github.com/King4584/mob-x-portfolio.git
+-Clone the repository: git clone https://github.com/King4584/Mob-X-Portfolio.git
 -Open index.html in your web browser to explore the Mob-X portfolio.
 
 Technologies Used
